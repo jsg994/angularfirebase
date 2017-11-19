@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file that will be applied to whole Angular 4 Firebase Authentication Project, and also import other style files */
+input.ng-invalid.ng-touched{
+  border: 1px solid red;
+}
+p.help-block{
+  color: red;
+}
